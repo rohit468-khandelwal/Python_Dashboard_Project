@@ -1,0 +1,107 @@
+# Apple Stock Dashboard Analysis
+
+## Project Overview
+
+This project focuses on analyzing Apple Inc. stock market data using data visualization and dashboarding techniques. The dashboard provides insights into stock price trends, trading volume, daily returns, and feature correlations for better financial analysis and decision-making.
+
+---
+
+## Objectives
+
+* Analyze Apple stock market performance
+* Visualize stock price movements over time
+* Study trading volume trends
+* Analyze daily returns and market behavior
+* Build an interactive financial dashboard
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Plotly
+* Matplotlib
+* Seaborn
+* Jupyter Notebook / Google Colab
+
+---
+
+## Dashboard Features
+
+### Latest Stock Metrics
+
+* Latest Closing Price
+* Daily Change Percentage
+* 52-Week High
+* 52-Week Low
+
+### Stock Price Analysis
+
+* Time-series visualization of Apple stock prices
+* Long-term stock growth trend analysis
+
+### Trading Volume Analysis
+
+* Daily trading volume visualization
+* Volume trend comparison over different years
+
+### Feature Correlation Heatmap
+
+* Correlation between:
+
+  * Open Price
+  * High Price
+  * Low Price
+  * Close Price
+  * Adjusted Close
+  * Volume
+  * Daily Returns
+
+### Daily Return Categories
+
+* Positive Return Days
+* Negative Return Days
+* Neutral Return Days
+
+---
+
+## Visualizations Included
+
+* Line Charts
+* Area Charts
+* Correlation Heatmap
+* Pie Chart / Donut Chart
+* Financial KPI Cards
+
+---
+
+## Key Insights
+
+* Apple stock shows strong long-term growth trends
+* Trading volume has fluctuated significantly across years
+* Stock price variables are highly correlated
+* Daily returns indicate both market volatility and growth opportunities
+* Dashboard provides a quick overview of stock performance metrics
+
+---
+
+## Files Included
+
+* Python Notebook / Dashboard Code
+* Dataset File
+* Dashboard Screenshot
+* README File
+
+---
+
+## Conclusion
+
+This project demonstrates how financial data visualization and dashboard analytics can help investors and analysts better understand stock market behavior. The Apple Stock Dashboard provides an interactive and informative way to monitor market trends and stock performance.
+
+---
+
+## Author
+
+Rohit Khandelwal
